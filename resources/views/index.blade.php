@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Gp Bootstrap Template - Index</title>
+  <title>Graha Luas</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -309,7 +309,7 @@
                     <p>CABINET SIZE: 730x730x460 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_cabinet/1.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 1"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -324,7 +324,7 @@
                     <p>CABINET SIZE: 580x460x660 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_cabinet/2.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 2"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -339,7 +339,7 @@
                     <p>CABINET SIZE: 500x500x670 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_cabinet/3.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 3"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -354,7 +354,7 @@
                     <p>CABINET SIZE: 800x500x660 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_cabinet/4.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 4"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -369,7 +369,7 @@
                     <p>Cabinet Size : 900x820x500 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_cabinet/5.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 5"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -384,7 +384,7 @@
                     <p>Cabinet Size : 550x680x350 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_cabinet/6.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 6"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -399,7 +399,7 @@
                     <p>Cabinet Size : 410x700x410 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_cabinet/7.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 7"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -414,7 +414,7 @@
                     <p>Cabinet Size : 450x720x400 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_cabinet/8.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 8"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -429,7 +429,7 @@
                     <p>Cabinet Size : 900x790x450 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_cabinet/9.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 9"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -444,7 +444,7 @@
                     <p>Cabinet Size : 420x660x460 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_cabinet/10.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 10"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -459,7 +459,7 @@
                     <p>Cabinet Size : 490x395x560 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_cabinet/11.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 11"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -474,7 +474,7 @@
                     <p>Cabinet Size : 460x460x570 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_cabinet/12.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 12"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -489,7 +489,7 @@
                     <p>Cabinet Size : 430x450x470 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_cabinet/13.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 13"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -504,7 +504,7 @@
                     <p>Cabinet Size : 750x500x500 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_cabinet/14.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 14"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -519,7 +519,7 @@
                     <p>Cabinet Size : 320x290x970 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_cabinet/15.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 15"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -534,7 +534,7 @@
                     <p>Cabinet Size : 440x450x370 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_cabinet/16.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 16"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -549,7 +549,7 @@
                     <p>Cabinet Size : 880x430x550 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_cabinet/17.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 17"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -564,7 +564,7 @@
                     <p>Cabinet Size : 780x430x580 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_cabinet/18.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 18"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -579,7 +579,7 @@
                     <p>Cabinet Size : 750x490x470 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_cabinet/19.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 19"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -594,7 +594,7 @@
                     <p>Cabinet Size : 780x430x580 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_cabinet/20.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 20"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -609,7 +609,7 @@
                     <p>Cabinet Size : 500x530x660 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_cabinet/21.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 21"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -624,7 +624,7 @@
                     <p>Cabinet Size : 450x450x450 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_cabinet/22.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 22"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -639,7 +639,7 @@
                     <p>Cabinet Size : 600x500x780 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_cabinet/23.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 23"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -654,7 +654,7 @@
                     <p>Cabinet Size : 880x630x680 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_cabinet/24.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 24"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -669,7 +669,7 @@
                     <p>Cabinet Size : 420x420x560 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_cabinet/25.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 25"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -684,7 +684,7 @@
                     <p>Cabinet Size : 595x500x560 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_cabinet/26.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 26"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -699,7 +699,7 @@
                     <p>Size : 430x430x170 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_sink/1.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 1"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -714,7 +714,7 @@
                     <p>Size : 415x415x160 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_sink/2.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 2"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -729,7 +729,7 @@
                     <p>Size : 460x460x165 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_sink/3.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 3"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -744,7 +744,7 @@
                     <p>Size : 500x500x165 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_sink/4.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 4"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -759,7 +759,7 @@
                     <p>Size : 390x390x170 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_sink/5.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 5"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -774,7 +774,7 @@
                     <p>Size : 590x385x190 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_sink/6.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 6"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -789,7 +789,7 @@
                     <p>Size : 410x340x145 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_sink/7.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 7"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -804,7 +804,7 @@
                     <p>Size : 590x400x220 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_sink/8.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 8"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -819,7 +819,7 @@
                     <p>Size : 450x450x170 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_sink/9.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 9"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -834,7 +834,7 @@
                     <p>Size : 470x470x180 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_sink/10.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 10"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -849,7 +849,7 @@
                     <p>Size : 555x345x140 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_sink/11.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 11"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -864,7 +864,7 @@
                     <p>Size : 420x400x260 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_sink/12.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 12"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -879,7 +879,7 @@
                     <p>Size : 475x465x180 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_sink/13.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 13"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -894,7 +894,7 @@
                     <p>Size : 410x415x170 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_sink/14.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 14"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -909,7 +909,7 @@
                     <p>Size : 460x460x160 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_sink/15.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 15"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -924,7 +924,7 @@
                     <p>Size : 410x410x150 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_sink/16.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 16"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -939,7 +939,7 @@
                     <p>Size : 580x460x160 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_sink/17.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 17"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -954,7 +954,7 @@
                     <p>Size : 550x400x220 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_sink/18.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 18"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -969,7 +969,7 @@
                     <p>Size : 475x365x130 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_sink/19.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 19"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -984,7 +984,7 @@
                     <p>Size : 650x470x150 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_sink/20.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 20"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -999,7 +999,7 @@
                     <p>Size : 475x475x160 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_sink/21.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 21"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -1014,7 +1014,7 @@
                     <p>Size : 420x420x165 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_sink/22.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 22"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -1029,7 +1029,7 @@
                     <p>Size : 530x500x165 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_sink/23.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 23"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -1044,7 +1044,7 @@
                     <p>Size : 560x355x160 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_sink/24.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 24"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -1058,7 +1058,7 @@
                     <p>BATH SINK</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_sink/25.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 25"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -1073,7 +1073,7 @@
                     <p>Size : 410x360x200 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_sink/26.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 26"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -1088,7 +1088,7 @@
                     <p>Size : 500x420x810 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_sink/27.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 27"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -1103,7 +1103,7 @@
                     <p>Size : 560x420x810 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_sink/28.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 28"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -1118,7 +1118,7 @@
                     <p>Size : 540x480x880 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_sink/29.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 29"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -1133,7 +1133,7 @@
                     <p>Size : 510x510x865 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_sink/30.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 30"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -1148,7 +1148,7 @@
                     <p>Size : 610x610x835 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_sink/31.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 31"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -1163,7 +1163,7 @@
                     <p>Size : 450x380x830 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_sink/32.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 32"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -1178,7 +1178,7 @@
                     <p>Size : 470x470x840 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_sink/33.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 33"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -1193,7 +1193,7 @@
                     <p>Size : 450x440x890 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_sink/34.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 34"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -1208,7 +1208,7 @@
                     <p>Size : 550x515x850 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_sink/35.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 35"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -1223,7 +1223,7 @@
                     <p>Size : 470x510x850 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_sink/36.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 31"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -1238,7 +1238,7 @@
                     <p>Size : 510x460x850 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_sink/37.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 32"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -1253,7 +1253,7 @@
                     <p>Size : 460x540x860 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_sink/38.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 33"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -1268,7 +1268,7 @@
                     <p>Size : 650x450x820 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_sink/39.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 34"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -1283,7 +1283,7 @@
                     <p>Size : 450x460x970 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_sink/40.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 35"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -1298,7 +1298,7 @@
                     <p>Size : 460x540x840 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_sink/41.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 34"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -1313,7 +1313,7 @@
                     <p>Size : 610x610x880 mm</p>
                     <div class="portfolio-links">
                       <a href="assets/img/kp_image/bath_sink/42.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 35"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                     </div>
                   </div>
                 </div>
@@ -1328,7 +1328,7 @@
                         <p>Size : 80x60 cm</p>
                         <div class="portfolio-links">
                           <a href="assets/img/kp_image/mirror/1.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Mirror 1"><i class="bx bx-plus"></i></a>
-                          <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                         </div>
                       </div>
                     </div>
@@ -1343,7 +1343,7 @@
                         <p>Size : 45x65 cm & 60x80 cm</p>
                         <div class="portfolio-links">
                           <a href="assets/img/kp_image/mirror/2.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Mirror 1"><i class="bx bx-plus"></i></a>
-                          <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                         </div>
                       </div>
                     </div>
@@ -1358,7 +1358,7 @@
                         <p>Size : 70x70 cm & 60x80 cm</p>
                         <div class="portfolio-links">
                           <a href="assets/img/kp_image/mirror/3.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Mirror 1"><i class="bx bx-plus"></i></a>
-                          <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                         </div>
                       </div>
                     </div>
@@ -1373,7 +1373,7 @@
                         <p>Size : 70x70 cm</p>
                         <div class="portfolio-links">
                           <a href="assets/img/kp_image/mirror/4.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Mirror 1"><i class="bx bx-plus"></i></a>
-                          <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                         </div>
                       </div>
                     </div>
@@ -1388,7 +1388,7 @@
                         <p>Size : 45x65 cm & 60x80 cm</p>
                         <div class="portfolio-links">
                           <a href="assets/img/kp_image/mirror/5.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Mirror 1"><i class="bx bx-plus"></i></a>
-                          <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                         </div>
                       </div>
                     </div>
@@ -1403,7 +1403,7 @@
                         <p>Size : 45x65 cm & 60x80 cm</p>
                         <div class="portfolio-links">
                           <a href="assets/img/kp_image/mirror/6.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Mirror 1"><i class="bx bx-plus"></i></a>
-                          <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                         </div>
                       </div>
                     </div>
@@ -1418,7 +1418,7 @@
                         <p>Size : 50x50 cm & 60x80 cm</p>
                         <div class="portfolio-links">
                           <a href="assets/img/kp_image/mirror/7.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Mirror 1"><i class="bx bx-plus"></i></a>
-                          <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                         </div>
                       </div>
                     </div>
@@ -1433,7 +1433,7 @@
                         <p>Size : 45x65 cm & 60x80 cm</p>
                         <div class="portfolio-links">
                           <a href="assets/img/kp_image/mirror/8.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Mirror 1"><i class="bx bx-plus"></i></a>
-                          <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                         </div>
                       </div>
                     </div>
@@ -1448,7 +1448,7 @@
                         <p>Size : 70x70 cm & 60x80 cm</p>
                         <div class="portfolio-links">
                           <a href="assets/img/kp_image/mirror/9.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Mirror 1"><i class="bx bx-plus"></i></a>
-                          <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                         </div>
                       </div>
                     </div>
@@ -1463,7 +1463,7 @@
                         <p>Size : 70x70 cm</p>
                         <div class="portfolio-links">
                           <a href="assets/img/kp_image/mirror/10.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Mirror 1"><i class="bx bx-plus"></i></a>
-                          <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                         </div>
                       </div>
                     </div>
@@ -1478,7 +1478,7 @@
                         <p>Size : 90x60 cm</p>
                         <div class="portfolio-links">
                           <a href="assets/img/kp_image/mirror/11.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Mirror 1"><i class="bx bx-plus"></i></a>
-                          <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                         </div>
                       </div>
                     </div>
@@ -1493,7 +1493,7 @@
                         <p>Size : 60x80 cm</p>
                         <div class="portfolio-links">
                           <a href="assets/img/kp_image/mirror/12.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Mirror 1"><i class="bx bx-plus"></i></a>
-                          <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                         </div>
                       </div>
                     </div>
@@ -1510,7 +1510,7 @@
                         <p>Pattern Type (In Picture)</p>
                         <div class="portfolio-links">
                           <a href="assets/img/kp_image/sanitary/1.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Sanitary 1"><i class="bx bx-plus"></i></a>
-                          <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                         </div>
                       </div>
                     </div>
@@ -1527,7 +1527,7 @@
                         <p>Pattern Type (In Picture)</p>
                         <div class="portfolio-links">
                           <a href="assets/img/kp_image/sanitary/2.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Sanitary 1"><i class="bx bx-plus"></i></a>
-                          <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                         </div>
                       </div>
                     </div>
@@ -1544,7 +1544,7 @@
                         <p>Pattern Type (In Picture)</p>
                         <div class="portfolio-links">
                           <a href="assets/img/kp_image/sanitary/3.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Sanitary 1"><i class="bx bx-plus"></i></a>
-                          <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                         </div>
                       </div>
                     </div>
@@ -1558,7 +1558,7 @@
                         <p>Sanitary</p>
                         <div class="portfolio-links">
                           <a href="assets/img/kp_image/sanitary/4.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Sanitary 1"><i class="bx bx-plus"></i></a>
-                          <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                         </div>
                       </div>
                     </div>
@@ -1573,7 +1573,7 @@
                         <p>Size : 330x310x600 mm</p>
                         <div class="portfolio-links">
                           <a href="assets/img/kp_image/sanitary/5.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Sanitary 1"><i class="bx bx-plus"></i></a>
-                          <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                         </div>
                       </div>
                     </div>
@@ -1588,7 +1588,7 @@
                         <p>Size : 330x310x600 mm</p>
                         <div class="portfolio-links">
                           <a href="assets/img/kp_image/sanitary/6.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Sanitary 1"><i class="bx bx-plus"></i></a>
-                          <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                         </div>
                       </div>
                     </div>
@@ -1603,7 +1603,7 @@
                         <p>Size : 460x330x700 mm</p>
                         <div class="portfolio-links">
                           <a href="assets/img/kp_image/sanitary/7.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Sanitary 1"><i class="bx bx-plus"></i></a>
-                          <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                         </div>
                       </div>
                     </div>
@@ -1618,7 +1618,7 @@
                         <p>Size : 690x370x760 mm</p>
                         <div class="portfolio-links">
                           <a href="assets/img/kp_image/sanitary/8.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Sanitary 1"><i class="bx bx-plus"></i></a>
-                          <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                         </div>
                       </div>
                     </div>
@@ -1633,7 +1633,7 @@
                         <p>Size : 690x370x760 mm</p>
                         <div class="portfolio-links">
                           <a href="assets/img/kp_image/sanitary/9.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Sanitary 1"><i class="bx bx-plus"></i></a>
-                          <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                         </div>
                       </div>
                     </div>
@@ -1648,7 +1648,7 @@
                         <p>Size : 420x400x990 mm</p>
                         <div class="portfolio-links">
                           <a href="assets/img/kp_image/sanitary/10.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Sanitary 1"><i class="bx bx-plus"></i></a>
-                          <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                         </div>
                       </div>
                     </div>
@@ -1663,7 +1663,7 @@
                         <p>Size : 710x370x800 mm</p>
                         <div class="portfolio-links">
                           <a href="assets/img/kp_image/sanitary/11.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Sanitary 1"><i class="bx bx-plus"></i></a>
-                          <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                         </div>
                       </div>
                     </div>
@@ -1678,7 +1678,7 @@
                         <p>Size : 670x430x570 mm</p>
                         <div class="portfolio-links">
                           <a href="assets/img/kp_image/sanitary/12.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Sanitary 1"><i class="bx bx-plus"></i></a>
-                          <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                         </div>
                       </div>
                     </div>
@@ -1961,34 +1961,34 @@
                 <strong>Phone:</strong> 0315319764<br>
                 <strong>Email:</strong> grahaluas@yahoo.com<br>
               </p>
-              <div class="social-links mt-3">
+              <!-- <div class="social-links mt-3">
                 <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
                 <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
                 <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
                 <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
                 <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-              </div>
+              </div> -->
             </div>
           </div>
 
           <div class="col-lg-2 col-md-6 footer-links">
             <h4>Useful Links</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#hero">Home</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#about">About us</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#services">Services</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#portfolio">Products</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#contact">Contact</a></li>
             </ul>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Our Services</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Jasa Pengukuran</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Jasa Servis Lokasi</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Jasa Pemasangan</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Bawa Katalog Kerumah</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#services">Jasa Pengukuran</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#services">Jasa Servis Lokasi</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#services">Jasa Pemasangan</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#services">Bawa Katalog Kerumah</a></li>
             </ul>
           </div>
 
