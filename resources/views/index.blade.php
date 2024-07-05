@@ -1898,7 +1898,7 @@
               <div class="email">
                 <i class="bi bi-envelope"></i>
                 <h4>Email:</h4>
-                <p>info@example.com</p>
+                <p>grahaluas@yahoo.com</p>
               </div>
 
               <div class="phone">
@@ -1959,7 +1959,7 @@
                 Kec. Bubutan, Surabaya,<br>
                 Jawa Timur 60175<br><br>
                 <strong>Phone:</strong> 0315319764<br>
-                <strong>Email:</strong> info@example.com<br>
+                <strong>Email:</strong> grahaluas@yahoo.com<br>
               </p>
               <div class="social-links mt-3">
                 <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
